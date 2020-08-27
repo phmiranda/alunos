@@ -3,6 +3,8 @@
 .vscode/
 
 # comentário.
+escola/__pycache__/
+escola/migrations/__pycache__/
 setup/__pycache__/
 venv/
 .env
